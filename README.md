@@ -9,7 +9,7 @@ your Twitter display name with a little emoji representation of the current weat
 
 It's more of a proof of concept at this point, but it works well.
 
-![Screenshot](screen-shot.png)
+[<img src="screen-shot.png.png" width="250"/>](screen-shot.png))
 
 How to run:
 
