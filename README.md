@@ -9,6 +9,8 @@ your Twitter display name with a little emoji representation of the current weat
 
 It's more of a proof of concept at this point, but it works well.
 
+![Screenshot](screen-shot.png)
+
 How to run:
 
 1. Sign up for a free account at https://openweathermap.org/ and get an AppID
